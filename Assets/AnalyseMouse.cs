@@ -1,6 +1,6 @@
 //
 // マウスの入力解析
-//
+// takeshi yamaya
 using System;
 using System.Text;
 using UnityEngine;
